@@ -1,4 +1,4 @@
-# firstapp
+# Firstapp
 
 The Flappy Bird application we made in the Flutter lesson..
 
