@@ -1,6 +1,6 @@
 # firstapp
 
-A new Flutter project.
+The Flappy Bird application we made in the Flutter lesson..
 
 ## Getting Started
 
